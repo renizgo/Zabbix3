@@ -6,13 +6,13 @@
 
 Zabbix é uma ferramenta de monitoramento Open Source muito completa e possui diversos benefícios:
 
-..* Monitoramento de toda a sua rede;
-..* Monitora alta disponibilidade do seu ambiente (redes / aplicações);
-..* Envia mensagens de indisponibilidade por e-mail ou diversos outros tipos de clientes de mensageria;
-..* Coleta dados com e sem agentes, dependendo da necessidade;
-..* Interface Web para administração;
-..* Gráficos com dados estatísticos;
-..* Suporte a maioria dos sistemas operacionais e equipamentos que suportam o protocolo SNMP;
+* Monitoramento de toda a sua rede;
+* Monitora alta disponibilidade do seu ambiente (redes / aplicações);
+* Envia mensagens de indisponibilidade por e-mail ou diversos outros tipos de clientes de mensageria;
+* Coleta dados com e sem agentes, dependendo da necessidade;
+* Interface Web para administração;
+* Gráficos com dados estatísticos;
+* Suporte a maioria dos sistemas operacionais e equipamentos que suportam o protocolo SNMP;
 
 ## Objetivo
 
