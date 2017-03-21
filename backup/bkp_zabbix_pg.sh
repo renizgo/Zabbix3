@@ -10,7 +10,7 @@
 #############
 DIR_BKP="/dados/backup"
 BACKUP_NAME="bkp_zabbix"
-export PGPASSWORD=xei0wahP
+export PGPASSWORD=<password>
 
 ###################
 # Backup Postgres #
