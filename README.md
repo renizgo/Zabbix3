@@ -174,4 +174,31 @@ Inicie e Zabbix-Server e configure na inicialização no sistema:
 
 Agora concluiremos a instalação através do Browser: “http://<IP-SERVIDOR>/zabbix”:
 
+Inline-style: 
+![Imagem 01](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem01.png)
+
+Siga os passos de instalação conforme imagens a seguir:
+![Imagem 02](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem02.png)
+![Imagem 03](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem03.png)
+![Imagem 04](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem04.png)
+![Imagem 05](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem05.png)
+![Imagem 06](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem06.png)
+
+### Acessando
+
+Acesse seu sistema de monitoramento com as credenciais de acesso:
+Username: Admin
+Password: zabbix
+Obs: Lembre se trocar a senha o mais rápido possível.
+
+
+![Imagem 07](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem07.png)
+
+E para fechar a instalação habilite o monitoramento do servidor Zabbix, pelo menu: 
+
+![Imagem 08](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem08.png)
+
+Seu ambiente está pronto para ser gerenciado e adicionar novos equipamentos para monitoramento:
+
+![Imagem 09](https://github.com/renizgo/Zabbix3/blob/master/imagens/Imagem09.png)
 
