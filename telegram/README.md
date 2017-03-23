@@ -33,15 +33,13 @@ Acesse o link abaixo digitando a sua chave API que foi gerada anteriormente:
 https://api.telegram.org/bot<API>/getMe
 ```
 
+Adicione um grupo no Telegram e neste grupo adicione o usuário que criou anteriormente:
+
 ![Imagem 05](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem05.png)
 Imagem05
 
-Adicione um grupo no Telegram e neste grupo adicione o usuário que criou anteriormente:
-
-![Imagem 06](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem06.png)
-Imagem06
-
 Acesse o link abaixo digitando a sua chave API para copiar as informações:
+
 
 ```
 https://api.telegram.org/bot<API>/getUpdates
@@ -54,8 +52,9 @@ Copie algumas informações importantes:
 "message":{"message_id":1,"from":{"id":457653184,"first_name":"Renato","last_name":"Diniz Marigo"},"chat":{"id":-195343187,"title":"SciELOZabbix","type":"group","all_members_are_administrators":true},"date":1482339296,"new_chat_participant":{"id":289059834,"first_name":"zabbix3","username":"zabbix3_alarmsbot"},"new_chat_member":{"id":409059834,"first_name":"zabbix3","username":"zabbix3_alarmsbot"}}}]}
 ```
 
-![Imagem 07](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem07.png)
-Imagem07
+![Imagem 06](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem06.png)
+Imagem06
+
 
 ## Configurando o Zabbix-in-Telegram
 
@@ -140,15 +139,16 @@ emoji_map = {
 
 Crie uma “Media Type” em Administration / Media types:
 
+![Imagem 07](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem07.png)
+Imagem07
+
 ![Imagem 08](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem08.png)
 Imagem08
 
+Para testar via linha de comando
+Crie uma “action” em Configuration / Actions:
 ![Imagem 09](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem09.png)
 Imagem09
-
-Para testar via linha de comando
-
-Crie uma “action” em Configuration / Actions:
 
 ![Imagem 10](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem10.png)
 Imagem10
@@ -159,21 +159,17 @@ Imagem11
 ![Imagem 12](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem12.png)
 Imagem12
 
+Crie a “Media type”, dentro do User, lembre-se que o username é “Case-Sensitive”:
+
 ![Imagem 13](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem13.png)
 Imagem13
-
-
-Crie a “Media type”, dentro do User, lembre-se que o username é “Case-Sensitive”:
 
 ![Imagem 14](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem14.png)
 Imagem14
 
-![Imagem 15](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem15.png)
-Imagem15
-
 Cause um problema em um servidor para receber a mensagem:
 
-![Imagem 16](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem16.png)
-Imagem16
+![Imagem 15](https://github.com/renizgo/Zabbix3/blob/master/telegram/imagens/Imagem15.png)
+Imagem15
 
 
