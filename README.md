@@ -187,8 +187,13 @@ Siga os passos de instalação conforme imagens a seguir:
 ### Acessando
 
 Acesse seu sistema de monitoramento com as credenciais de acesso:
+
+```
 Username: Admin
+
 Password: zabbix
+```
+
 Obs: Lembre se trocar a senha o mais rápido possível.
 
 
