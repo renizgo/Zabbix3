@@ -1,5 +1,5 @@
 # Envio de alertas através do Telegram
-
+<center>Centered text</center>
 Referência: [https://github.com/ableev/Zabbix-in-Telegram](https://github.com/ableev/Zabbix-in-Telegram)
 
 ## Criando um bot no telegram com uma API key
